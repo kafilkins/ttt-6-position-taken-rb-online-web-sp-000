@@ -1,5 +1,5 @@
 def position_taken?(board, index)
-  if position_taken? == board[" "] && position_taken? == index[0]
+  if index[0] == board[" "]
   return "false"
 end
 end
